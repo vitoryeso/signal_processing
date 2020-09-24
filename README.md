@@ -1,4 +1,4 @@
-# DCA0118 -  PROCESSAMENTO DIGITAL DE SINAIS
+# DCA0118 -  Processamento Digital De Sinais
 
 ```bash
 git clone https://github.com/vitoryeso/signal_processing.git
